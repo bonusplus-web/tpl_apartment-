@@ -1,0 +1,941 @@
+{
+  "site": {
+    "brand_name": "Homeverse",
+    "business_type": "real_estate",
+    "primary_color": "#10b981",
+    "default_language": "en",
+    "contact": {
+      "phone_main": "+0123-456789",
+      "whatsapp": "+0123-456789",
+      "email": "contact@homeverse.com",
+      "address": "Brooklyn, New York, United States"
+    },
+    "social": {
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "pinterest": "#",
+      "linkedin": "#",
+      "youtube": "#"
+    },
+    "seo": {
+      "twitter_handle": "@homeverse",
+      "og_image": "./assets/images/hero-banner.png"
+    }
+  },
+  "languages": {
+    "en": {
+      "meta": {
+        "title": "Homeverse - Find your dream house",
+        "description": "Homeverse helps you buy, rent, or sell homes with trusted agents and curated listings.",
+        "keywords": "real estate, property listings, home for sale"
+      },
+      "header": {
+        "top_links": [
+          {
+            "icon": "mail-outline",
+            "label": "info@homeverse.com",
+            "href": "mailto:info@homeverse.com"
+          },
+          {
+            "icon": "location-outline",
+            "label": "15/A, Nest Tower, NYC",
+            "href": "#"
+          }
+        ],
+        "social": [
+          {
+            "icon": "logo-facebook",
+            "href": "#"
+          },
+          {
+            "icon": "logo-twitter",
+            "href": "#"
+          },
+          {
+            "icon": "logo-instagram",
+            "href": "#"
+          },
+          {
+            "icon": "logo-pinterest",
+            "href": "#"
+          }
+        ],
+        "cta": "Add Listing",
+        "nav": [
+          {
+            "text": "Home",
+            "href": "#home"
+          },
+          {
+            "text": "About",
+            "href": "#about"
+          },
+          {
+            "text": "Service",
+            "href": "#service"
+          },
+          {
+            "text": "Property",
+            "href": "#property"
+          },
+          {
+            "text": "Blog",
+            "href": "#blog"
+          },
+          {
+            "text": "Contact",
+            "href": "#contact"
+          }
+        ],
+        "action_buttons": [
+          {
+            "icon": "search-outline",
+            "label": "Search"
+          },
+          {
+            "icon": "person-outline",
+            "label": "Profile"
+          },
+          {
+            "icon": "cart-outline",
+            "label": "Cart"
+          }
+        ],
+        "menu_label": "Menu"
+      },
+      "hero": {
+        "subtitle_icon": "home",
+        "subtitle": "Real Estate Agency",
+        "title": "Find Your Dream House By Us",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+        "button": "Make An Enquiry",
+        "image_alt": "Modern house model"
+      },
+      "about": {
+        "subtitle": "About Us",
+        "title": "The Leading Real Estate Rental Marketplace.",
+        "text": "Over 39,000 people work for us in more than 70 countries all over the This breadth of global coverage, combined with specialist services",
+        "highlights": [
+          {
+            "icon": "home-outline",
+            "text": "Smart Home Design"
+          },
+          {
+            "icon": "leaf-outline",
+            "text": "Beautiful Scene Around"
+          },
+          {
+            "icon": "wine-outline",
+            "text": "Exceptional Lifestyle"
+          },
+          {
+            "icon": "shield-checkmark-outline",
+            "text": "Complete 24/7 Security"
+          }
+        ],
+        "quote": "\"Enimad minim veniam quis nostrud exercitation llamco laboris. Lorem ipsum dolor sit amet\"",
+        "button": "Our Services"
+      },
+      "service": {
+        "subtitle": "Our Services",
+        "title": "Our Main Focus"
+      },
+      "property": {
+        "subtitle": "Properties",
+        "title": "Featured Listings"
+      },
+      "features": {
+        "subtitle": "Our Aminities",
+        "title": "Building Aminities"
+      },
+      "blog": {
+        "subtitle": "News & Blogs",
+        "title": "Leatest News Feeds"
+      },
+      "cta": {
+        "title": "Looking for a dream home?",
+        "text": "We can help you realize your dream of a new home",
+        "button": "Explore Properties"
+      },
+      "contact": {
+        "title": "Let’s Talk",
+        "description": "Send us a message and our team will reach out within 24 hours.",
+        "button": "Send Message",
+        "name_label": "Name",
+        "email_label": "Email",
+        "phone_label": "Phone",
+        "message_label": "Message",
+        "success": "Thank you! Your message has been received.",
+        "error": "Sorry, something went wrong. Please try again later.",
+        "honeypot": "Leave this field empty"
+      },
+      "footer": {
+        "text": "Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.",
+        "company_title": "Company",
+        "service_title": "Services",
+        "customer_title": "Customer Care",
+        "copyright": "&copy; 2022 <a href=\"#\">codewithsadee</a>. All Rights Reserved"
+      }
+    },
+    "am": {
+      "meta": {
+        "title": "ሆምቨርስ - የህልምዎን ቤት እንሽረዎታለን",
+        "description": "ሆምቨርስ በታመኑ ወኪሎች እና በተመረጡ የንብረት ዝርዝሮች የመግዛት፣ የመከራየት እና የመሸጥ አገልግሎት ይሰጣል።",
+        "keywords": "ንብረት፣ ቤቶች፣ መኖሪያ"
+      },
+      "header": {
+        "top_links": [
+          {
+            "icon": "mail-outline",
+            "label": "info@homeverse.com",
+            "href": "mailto:info@homeverse.com"
+          },
+          {
+            "icon": "location-outline",
+            "label": "15/A, ኔስት ታውር፣ ኒውዮርክ",
+            "href": "#"
+          }
+        ],
+        "social": [
+          {
+            "icon": "logo-facebook",
+            "href": "#"
+          },
+          {
+            "icon": "logo-twitter",
+            "href": "#"
+          },
+          {
+            "icon": "logo-instagram",
+            "href": "#"
+          },
+          {
+            "icon": "logo-pinterest",
+            "href": "#"
+          }
+        ],
+        "cta": "ዝርዝር ጨምር",
+        "nav": [
+          {
+            "text": "መነሻ",
+            "href": "#home"
+          },
+          {
+            "text": "ስለ እኛ",
+            "href": "#about"
+          },
+          {
+            "text": "አገልግሎት",
+            "href": "#service"
+          },
+          {
+            "text": "ንብረት",
+            "href": "#property"
+          },
+          {
+            "text": "ብሎግ",
+            "href": "#blog"
+          },
+          {
+            "text": "ያነጋግሩን",
+            "href": "#contact"
+          }
+        ],
+        "action_buttons": [
+          {
+            "icon": "search-outline",
+            "label": "ፈልግ"
+          },
+          {
+            "icon": "person-outline",
+            "label": "መገለጫ"
+          },
+          {
+            "icon": "cart-outline",
+            "label": "ጋሪ"
+          }
+        ],
+        "menu_label": "ሜኑ"
+      },
+      "hero": {
+        "subtitle_icon": "home",
+        "subtitle": "የንብረት ወኪል",
+        "title": "የህልምዎን ቤት ከእኛ ጋር ፈልጉ",
+        "text": "ሎሬም ፒሱም ዶሎር ሲት አሜት፣ ኮንሰክትቱር አዲፒሲስክንግ ኤሊት፣ ሰድ ዶ ኢዩስሞድ ቴምፖር ኢንሲዲድንት ኡት ሎባሬ።",
+        "button": "ጥያቄ ያቅርቡ",
+        "image_alt": "ዘመናዊ የቤት ሞዴል"
+      },
+      "about": {
+        "subtitle": "ስለ እኛ",
+        "title": "ከፍተኛው የንብረት ኪራይ ገበያ",
+        "text": "39,000 በላይ ሰዎች በ70 በላይ ሀገራት ውስጥ ከእኛ ጋር ይሰሩ፣ ይህም ዓለም አቀፍ ልክ እና ልዩ አገልግሎቶችን ያቀርባል።",
+        "highlights": [
+          {
+            "icon": "home-outline",
+            "text": "ስማርት የቤት ንድፍ"
+          },
+          {
+            "icon": "leaf-outline",
+            "text": "ውብ አካባቢ"
+          },
+          {
+            "icon": "wine-outline",
+            "text": "ልዩ የኑሮ ደረጃ"
+          },
+          {
+            "icon": "shield-checkmark-outline",
+            "text": "ሙሉ 24/7 ደህንነት"
+          }
+        ],
+        "quote": "\"ኤኒማድ ሚኒም ቬኒያም ኩስ ኖስትሩድ ኤክሰርሲቲሲዮን ላቦሪስ ሎሬም ፒሱም ዶሎር ሲት አሜት\"",
+        "button": "አገልግሎቶቻችን"
+      },
+      "service": {
+        "subtitle": "አገልግሎቶቻችን",
+        "title": "ዋና ትኩረታችን"
+      },
+      "property": {
+        "subtitle": "ንብረቶች",
+        "title": "ተለይተው የቀረቡ ዝርዝሮች"
+      },
+      "features": {
+        "subtitle": "የሕንፃ አገልግሎቶች",
+        "title": "የህንፃ ተቋማት"
+      },
+      "blog": {
+        "subtitle": "ዜና እና ብሎጎች",
+        "title": "የቅርብ ጊዜ ዜናዎች"
+      },
+      "cta": {
+        "title": "የህልም ቤት ትፈልጋለህ?",
+        "text": "አዲስ ቤት ህልምዎን እንፈጽማለን",
+        "button": "ንብረቶችን ይመልከቱ"
+      },
+      "contact": {
+        "title": "ተገናኝተን እናወያይ",
+        "description": "መልእክት ይላኩልን፣ ቡድናችን በ24 ሰዓታት ውስጥ ይመልሳል።",
+        "button": "መልእክት ላክ",
+        "name_label": "ስም",
+        "email_label": "ኢሜይል",
+        "phone_label": "ስልክ",
+        "message_label": "መልእክት",
+        "success": "እናመሰግናለን! መልዕክትዎን ተቀብያለን።",
+        "error": "አይቻልም፣ እባክዎ እንደገና ይሞክሩ።",
+        "honeypot": "ይህን ቦታ ባዶ ይተዉት"
+      },
+      "footer": {
+        "text": "ሎሬም ኢፕሱም የማቅረብ ስራ የሚያመለክት የደረጃ ጽሑፍ ነው።",
+        "company_title": "ኩባንያ",
+        "service_title": "አገልግሎት",
+        "customer_title": "የደንበኛ እንክብካቤ",
+        "copyright": "&copy; 2022 <a href=\"#\">codewithsadee</a>. ሁሉም መብቶች የተጠበቁ ናቸው"
+      }
+    }
+  },
+  "services": [
+    {
+      "image": "./assets/images/service-1.png",
+      "title": {
+        "en": "Buy a home",
+        "am": "ቤት ግዢ"
+      },
+      "text": {
+        "en": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+        "am": "ከ1 ሚሊዮን በላይ የሽያጭ ቤቶች በድረ-ገጻችን ላይ ይገኛሉ፣ ልብዎን የሚያሰኘውን ቤት እንስራለን።"
+      },
+      "link": "#",
+      "link_label": {
+        "en": "Find A Home",
+        "am": "ቤት ፈልግ"
+      }
+    },
+    {
+      "image": "./assets/images/service-2.png",
+      "title": {
+        "en": "Rent a home",
+        "am": "ቤት ኪራይ"
+      },
+      "text": {
+        "en": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+        "am": "ከ1 ሚሊዮን በላይ የሽያጭ ቤቶች በድረ-ገጻችን ላይ አሉ፣ በእርግጥ የሚወዱትን ቤት እናገኛለን።"
+      },
+      "link": "#",
+      "link_label": {
+        "en": "Find A Home",
+        "am": "ቤት ፈልግ"
+      }
+    },
+    {
+      "image": "./assets/images/service-3.png",
+      "title": {
+        "en": "Sell a home",
+        "am": "ቤት ሽያጭ"
+      },
+      "text": {
+        "en": "over 1 million+ homes for sale available on the website, we can match you with a house you will want to call home.",
+        "am": "ከ1 ሚሊዮን በላይ የሽያጭ ቤቶች በድረ-ገጻችን ላይ አሉ፣ ቤትዎን በፍጥነት እናሸጣለን።"
+      },
+      "link": "#",
+      "link_label": {
+        "en": "Find A Home",
+        "am": "ቤት ፈልግ"
+      }
+    }
+  ],
+  "properties": [
+    {
+      "image": "./assets/images/property-1.jpg",
+      "title": {
+        "en": "New Apartment Nice View",
+        "am": "አዲስ አፓርታማ አስደናቂ እይታ"
+      },
+      "badge": {
+        "en": "For Rent",
+        "am": "ለኪራይ"
+      },
+      "badge_color": "green",
+      "location": {
+        "en": "Belmont Gardens, Chicago",
+        "am": "ቤልሞንት ጋርደንስ፣ ሺካጎ"
+      },
+      "media": {
+        "photos": 4,
+        "videos": 2
+      },
+      "price": {
+        "amount": "$34,900",
+        "suffix": {
+          "en": "/Month",
+          "am": "/ወር"
+        }
+      },
+      "description": {
+        "en": "Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood",
+        "am": "በዌስትበሪ ልብ ውስጥ ውብ የቤተሰብ ቤት፣ አዲስ እንጨት ያለው አዲስ ነው።"
+      },
+      "stats": [
+        {
+          "value": 3,
+          "icon": "bed-outline",
+          "label": {
+            "en": "Bedrooms",
+            "am": "መኝታ ቤቶች"
+          }
+        },
+        {
+          "value": 2,
+          "icon": "man-outline",
+          "label": {
+            "en": "Bathrooms",
+            "am": "መታጠቢያ"
+          }
+        },
+        {
+          "value": 3450,
+          "icon": "square-outline",
+          "label": {
+            "en": "Square Ft",
+            "am": "ካሬ ጫማ"
+          }
+        }
+      ],
+      "author": {
+        "name": {
+          "en": "William Seklo",
+          "am": "ዊልያም ሴክሎ"
+        },
+        "title": {
+          "en": "Estate Agents",
+          "am": "የንብረት ወኪል"
+        },
+        "avatar": "./assets/images/author.jpg"
+      }
+    },
+    {
+      "image": "./assets/images/property-2.jpg",
+      "title": {
+        "en": "Modern Apartments",
+        "am": "ዘመናዊ አፓርታማዎች"
+      },
+      "badge": {
+        "en": "For Sales",
+        "am": "ለሽያጭ"
+      },
+      "badge_color": "orange",
+      "location": {
+        "en": "Belmont Gardens, Chicago",
+        "am": "ቤልሞንት ጋርደንስ፣ ሺካጎ"
+      },
+      "media": {
+        "photos": 4,
+        "videos": 2
+      },
+      "price": {
+        "amount": "$34,900",
+        "suffix": {
+          "en": "/Month",
+          "am": "/ወር"
+        }
+      },
+      "description": {
+        "en": "Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood",
+        "am": "በዌስትበሪ ልብ ውስጥ የቤተሰብ ቤት፣ በአዲስ እንጨት ተሻሽሏል።"
+      },
+      "stats": [
+        {
+          "value": 3,
+          "icon": "bed-outline",
+          "label": {
+            "en": "Bedrooms",
+            "am": "መኝታ ቤቶች"
+          }
+        },
+        {
+          "value": 2,
+          "icon": "man-outline",
+          "label": {
+            "en": "Bathrooms",
+            "am": "መታጠቢያ"
+          }
+        },
+        {
+          "value": 3450,
+          "icon": "square-outline",
+          "label": {
+            "en": "Square Ft",
+            "am": "ካሬ ጫማ"
+          }
+        }
+      ],
+      "author": {
+        "name": {
+          "en": "William Seklo",
+          "am": "ዊልያም ሴክሎ"
+        },
+        "title": {
+          "en": "Estate Agents",
+          "am": "የንብረት ወኪል"
+        },
+        "avatar": "./assets/images/author.jpg"
+      }
+    },
+    {
+      "image": "./assets/images/property-3.jpg",
+      "title": {
+        "en": "Comfortable Apartment",
+        "am": "መብት የሰጠ አፓርታማ"
+      },
+      "badge": {
+        "en": "For Rent",
+        "am": "ለኪራይ"
+      },
+      "badge_color": "green",
+      "location": {
+        "en": "Belmont Gardens, Chicago",
+        "am": "ቤልሞንት ጋርደንስ፣ ሺካጎ"
+      },
+      "media": {
+        "photos": 4,
+        "videos": 2
+      },
+      "price": {
+        "amount": "$34,900",
+        "suffix": {
+          "en": "/Month",
+          "am": "/ወር"
+        }
+      },
+      "description": {
+        "en": "Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood",
+        "am": "በዌስትበሪ ልብ ውስጥ ውብ የቤተሰብ ቤት፣ አዲስ እንጨት ያለው።"
+      },
+      "stats": [
+        {
+          "value": 3,
+          "icon": "bed-outline",
+          "label": {
+            "en": "Bedrooms",
+            "am": "መኝታ ቤቶች"
+          }
+        },
+        {
+          "value": 2,
+          "icon": "man-outline",
+          "label": {
+            "en": "Bathrooms",
+            "am": "መታጠቢያ"
+          }
+        },
+        {
+          "value": 3450,
+          "icon": "square-outline",
+          "label": {
+            "en": "Square Ft",
+            "am": "ካሬ ጫማ"
+          }
+        }
+      ],
+      "author": {
+        "name": {
+          "en": "William Seklo",
+          "am": "ዊልያም ሴክሎ"
+        },
+        "title": {
+          "en": "Estate Agents",
+          "am": "የንብረት ወኪል"
+        },
+        "avatar": "./assets/images/author.jpg"
+      }
+    },
+    {
+      "image": "./assets/images/property-4.png",
+      "title": {
+        "en": "Luxury Villa",
+        "am": "ከፍተኛ የዕለት ቤት"
+      },
+      "badge": {
+        "en": "For Rent",
+        "am": "ለኪራይ"
+      },
+      "badge_color": "green",
+      "location": {
+        "en": "Belmont Gardens, Chicago",
+        "am": "ቤልሞንት ጋርደንስ፣ ሺካጎ"
+      },
+      "media": {
+        "photos": 4,
+        "videos": 2
+      },
+      "price": {
+        "amount": "$34,900",
+        "suffix": {
+          "en": "/Month",
+          "am": "/ወር"
+        }
+      },
+      "description": {
+        "en": "Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood",
+        "am": "ውብ ቤተሰብ ቤት በዌስትበሪ ልብ ውስጥ፣ አዲስ እንጨት ያለው።"
+      },
+      "stats": [
+        {
+          "value": 3,
+          "icon": "bed-outline",
+          "label": {
+            "en": "Bedrooms",
+            "am": "መኝታ ቤቶች"
+          }
+        },
+        {
+          "value": 2,
+          "icon": "man-outline",
+          "label": {
+            "en": "Bathrooms",
+            "am": "መታጠቢያ"
+          }
+        },
+        {
+          "value": 3450,
+          "icon": "square-outline",
+          "label": {
+            "en": "Square Ft",
+            "am": "ካሬ ጫማ"
+          }
+        }
+      ],
+      "author": {
+        "name": {
+          "en": "William Seklo",
+          "am": "ዊልያም ሴክሎ"
+        },
+        "title": {
+          "en": "Estate Agents",
+          "am": "የንብረት ወኪል"
+        },
+        "avatar": "./assets/images/author.jpg"
+      }
+    }
+  ],
+  "features": [
+    {
+      "icon": "car-sport-outline",
+      "title": {
+        "en": "Parking Space",
+        "am": "የመኪና ማቆሚያ"
+      },
+      "href": "#"
+    },
+    {
+      "icon": "water-outline",
+      "title": {
+        "en": "Swimming Pool",
+        "am": "የመዋኛ ገንዳ"
+      },
+      "href": "#"
+    },
+    {
+      "icon": "shield-checkmark-outline",
+      "title": {
+        "en": "Private Security",
+        "am": "የግል ደህንነት"
+      },
+      "href": "#"
+    },
+    {
+      "icon": "fitness-outline",
+      "title": {
+        "en": "Gymnasium",
+        "am": "ጂም"
+      },
+      "href": "#"
+    },
+    {
+      "icon": "library-outline",
+      "title": {
+        "en": "Library Area",
+        "am": "የመጽሐፍ ቤት ክልል"
+      },
+      "href": "#"
+    },
+    {
+      "icon": "bed-outline",
+      "title": {
+        "en": "King Size Beds",
+        "am": "ታላላቅ አልጋዎች"
+      },
+      "href": "#"
+    },
+    {
+      "icon": "home-outline",
+      "title": {
+        "en": "Smart Homes",
+        "am": "ስማርት ቤቶች"
+      },
+      "href": "#"
+    },
+    {
+      "icon": "football-outline",
+      "title": {
+        "en": "Kid’s Playland",
+        "am": "የህፃናት መጫወቻ"
+      },
+      "href": "#"
+    }
+  ],
+  "blogs": [
+    {
+      "image": "./assets/images/blog-1.png",
+      "title": {
+        "en": "The Most Inspiring Interior Design Of 2021",
+        "am": "የ2021 በጣም የሚያበረታታ የውስጥ ንድፍ"
+      },
+      "category": {
+        "en": "Interior",
+        "am": "የውስጥ እቃ"
+      },
+      "author": {
+        "en": "by: Admin",
+        "am": "በ: አስተዳዳሪ"
+      },
+      "date": "2022-04-27",
+      "date_label": {
+        "en": "Apr 27, 2022",
+        "am": "ሚያዝያ 27, 2022"
+      },
+      "link": "#",
+      "read_more": {
+        "en": "Read More",
+        "am": "ተጨማሪ ያንብቡ"
+      }
+    },
+    {
+      "image": "./assets/images/blog-2.jpg",
+      "title": {
+        "en": "Recent Commercial Real Estate Trends",
+        "am": "አዲስ የንግድ ንብረት ዘወትር"
+      },
+      "category": {
+        "en": "Real Estate",
+        "am": "ንብረት"
+      },
+      "author": {
+        "en": "by: Admin",
+        "am": "በ: አስተዳዳሪ"
+      },
+      "date": "2022-05-12",
+      "date_label": {
+        "en": "May 12, 2022",
+        "am": "ግንቦት 12, 2022"
+      },
+      "link": "#",
+      "read_more": {
+        "en": "Read More",
+        "am": "ተጨማሪ ያንብቡ"
+      }
+    },
+    {
+      "image": "./assets/images/blog-3.jpg",
+      "title": {
+        "en": "Renovating a Living Room? Experts Share Their Secrets",
+        "am": "ቤትዎን ታደስ? ባለሙያዎች ሚስጥራቸውን ይካፈላሉ"
+      },
+      "category": {
+        "en": "Room",
+        "am": "ክፍል"
+      },
+      "author": {
+        "en": "by: Admin",
+        "am": "በ: አስተዳዳሪ"
+      },
+      "date": "2022-04-27",
+      "date_label": {
+        "en": "Apr 27, 2022",
+        "am": "ሚያዝያ 27, 2022"
+      },
+      "link": "#",
+      "read_more": {
+        "en": "Read More",
+        "am": "ተጨማሪ ያንብቡ"
+      }
+    }
+  ],
+  "footer_links": {
+    "company": [
+      {
+        "text": {
+          "en": "About",
+          "am": "ስለ እኛ"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "Blog",
+          "am": "ብሎግ"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "All Products",
+          "am": "ሁሉም ምርቶች"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "Locations Map",
+          "am": "የቦታዎች ካርታ"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "FAQ",
+          "am": "ጥያቄ እና መልስ"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "Contact us",
+          "am": "ያነጋግሩን"
+        },
+        "href": "#contact"
+      }
+    ],
+    "services": [
+      {
+        "text": {
+          "en": "Order tracking",
+          "am": "ትዕዛዝ ቁጥጥር"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "Wish List",
+          "am": "የምኞት ዝርዝር"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "Login",
+          "am": "ግባ"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "My account",
+          "am": "መለያዬ"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "Terms & Conditions",
+          "am": "ውሎች"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "Promotional Offers",
+          "am": "የሽያጭ ቅናሾች"
+        },
+        "href": "#"
+      }
+    ],
+    "customer": [
+      {
+        "text": {
+          "en": "Login",
+          "am": "ግባ"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "My account",
+          "am": "መለያዬ"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "Wish List",
+          "am": "የምኞት ዝርዝር"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "Order tracking",
+          "am": "ትዕዛዝ ቁጥጥር"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "FAQ",
+          "am": "ጥያቄ እና መልስ"
+        },
+        "href": "#"
+      },
+      {
+        "text": {
+          "en": "Contact us",
+          "am": "ያነጋግሩን"
+        },
+        "href": "#contact"
+      }
+    ]
+  },
+  "contact_form": {
+    "rate_limit_seconds": 120,
+    "delay_seconds": 2
+  }
+}
