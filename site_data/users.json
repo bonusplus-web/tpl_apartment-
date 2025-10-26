@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "developer",
+      "password": "$2y$12$jhmcXh/eeKWLX4GpLf5jqueSU2FI48Rx3O8IP1UnkKGNYd0zKxx3O",
+      "roles": ["developer", "admin"],
+      "name": "Lead Developer"
+    },
+    {
+      "username": "admin",
+      "password": "$2y$12$jhmcXh/eeKWLX4GpLf5jqueSU2FI48Rx3O8IP1UnkKGNYd0zKxx3O",
+      "roles": ["admin"],
+      "name": "Site Administrator"
+    }
+  ]
+}
